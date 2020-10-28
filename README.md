@@ -1,4 +1,4 @@
-## Hi, I'm Lucas! >_<
+## Hi, I'm Lucas! :wink:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucaspmatos)](https://github.com/lucaspmatos)
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-purple?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/lucaspmatos)](https://gitlab.com/lucaspmatos)
