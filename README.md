@@ -15,7 +15,7 @@ Now, I'm a backend and frontend software development intern. But I look forward 
 ![](https://img.shields.io/badge/JavaScript-red)
 ![](https://img.shields.io/badge/jQuery-darkblue)
 ![](https://img.shields.io/badge/NodeJS-darkgreen)
-![](https://img.shields.io/badge/Bootstrap-purple)
+![](https://img.shields.io/badge/Bootstrap-blueviolet)
 ![](https://img.shields.io/badge/MySQL-brown)
 ![](https://img.shields.io/badge/Sequelize-black)
 
