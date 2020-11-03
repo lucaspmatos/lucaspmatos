@@ -20,3 +20,5 @@ Now, I'm a backend and frontend software development intern. But I look forward 
 ![](https://img.shields.io/badge/Sequelize-black)
 
 :scroll: [Resume](https://lucaspmatos.github.io/my-digital-resume/) - A page to view my current resume (in Portuguese)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspmatos&layout=compact&show_icons=true&title_color=000000&icon_color=5C2DAE)](https://github.com/anuraghazra/github-readme-stats)
