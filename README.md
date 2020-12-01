@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Lucas!</h1>
+  <h2>Hi, I'm Lucas!</h2>
   
 [![Github Badge](https://img.shields.io/badge/github%20-%23323330.svg?&style=for-the-badge&logo=github&logoColor=white&color=black&link=https://github.com/lucaspmatos)](https://github.com/lucaspmatos)
 [![Gitlab Badge](https://img.shields.io/badge/gitlab%20-%23323330.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=purple&link=https://gitlab.com/lucaspmatos)](https://gitlab.com/lucaspmatos)
@@ -7,10 +7,10 @@
 
 ###### :closed_book: IS Student at [UFG](https://ufg.br)
 
-## About me
+### About me
 Now, I'm a backend and frontend software development intern. But I look forward to my junior career very soon! :pray:
 
-## Working with
+### Working with
 ![](https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=black&color=ffe05d)
