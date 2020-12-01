@@ -1,8 +1,7 @@
 ## Hi, I'm Lucas!
-
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucaspmatos)](https://github.com/lucaspmatos)
-[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-purple?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/lucaspmatos)](https://gitlab.com/lucaspmatos)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/lucaspmatos/)](https://br.linkedin.com/in/lucaspmatos/)
+[![Github Badge](https://img.shields.io/badge/github%20-%23323330.svg?&style=for-the-badge&logo=github&logoColor=white&color=black&link=https://github.com/lucaspmatos)](https://github.com/lucaspmatos)
+[![Gitlab Badge](https://img.shields.io/badge/gitlab%20-%23323330.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=purple&link=https://gitlab.com/lucaspmatos)](https://gitlab.com/lucaspmatos)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%23323330.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue&link=https://br.linkedin.com/in/lucaspmatos/)](https://br.linkedin.com/in/lucaspmatos/)
 
 ###### :closed_book: IS Student at [UFG](https://ufg.br)
 
