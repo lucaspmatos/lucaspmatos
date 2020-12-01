@@ -1,13 +1,16 @@
 <div align="center">
-  <h1>Hi, I'm Lucas!</h1>
+  <h1>
+    Hi, I'm Lucas! 
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+  </h1> 
   
 [![Github Badge](https://img.shields.io/badge/github%20-%23323330.svg?&style=for-the-badge&logo=github&logoColor=white&color=black&link=https://github.com/lucaspmatos)](https://github.com/lucaspmatos)
 [![Gitlab Badge](https://img.shields.io/badge/gitlab%20-%23323330.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=purple&link=https://gitlab.com/lucaspmatos)](https://gitlab.com/lucaspmatos)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%23323330.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue&link=https://br.linkedin.com/in/lucaspmatos/)](https://br.linkedin.com/in/lucaspmatos/)
 
-</div>
+##### :house: Goiânia, BR | :closed_book: IS Student at [UFG](https://ufg.br) 
 
-##### :closed_book: IS Student at [UFG](https://ufg.br)
+</div>
 
 ## About me
 Now, I'm a backend and frontend software development intern. But I look forward to my junior career very soon! :pray:
