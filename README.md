@@ -7,7 +7,7 @@
 
 </div>
 
-###### :closed_book: IS Student at [UFG](https://ufg.br)
+##### :closed_book: IS Student at [UFG](https://ufg.br)
 
 ## About me
 Now, I'm a backend and frontend software development intern. But I look forward to my junior career very soon! :pray:
