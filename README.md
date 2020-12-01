@@ -1,8 +1,10 @@
 <div align="center">
   <h1>Hi, I'm Lucas!</h1>
+  
 [![Github Badge](https://img.shields.io/badge/github%20-%23323330.svg?&style=for-the-badge&logo=github&logoColor=white&color=black&link=https://github.com/lucaspmatos)](https://github.com/lucaspmatos)
 [![Gitlab Badge](https://img.shields.io/badge/gitlab%20-%23323330.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=purple&link=https://gitlab.com/lucaspmatos)](https://gitlab.com/lucaspmatos)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%23323330.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue&link=https://br.linkedin.com/in/lucaspmatos/)](https://br.linkedin.com/in/lucaspmatos/)
+
 </div>
 
 ###### :closed_book: IS Student at [UFG](https://ufg.br)
