@@ -32,6 +32,6 @@ Now, I'm a backend and frontend software development intern. But I look forward 
 :books: I’m currently learning **ReactJS** and **React Native** frameworks<br>
 :handshake: I'm available for new connections and job offers<br>
 :nerd_face: Curious about data science, artificial intelligence and development operations<br>
-##
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucaspmatos&count_private=true&show_icons=true&hide=issues&title_color=000000&icon_color=5C2DAE&line_height=24)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspmatos&layout=compact&show_icons=true&title_color=000000&icon_color=5C2DAE)](https://github.com/anuraghazra/github-readme-stats)
