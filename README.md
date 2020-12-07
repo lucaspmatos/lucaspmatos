@@ -33,4 +33,5 @@ Now, I'm a backend and frontend software development intern. But I look forward 
 :handshake: I'm available for new connections and job offers<br>
 :nerd_face: Curious about data science, artificial intelligence and development operations<br>
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucaspmatos&count_private=true&show_icons=true&title_color=black&icon_color=black&line_height=20)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspmatos&layout=compact&show_icons=true&title_color=000000&icon_color=5C2DAE)](https://github.com/anuraghazra/github-readme-stats)
