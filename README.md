@@ -10,6 +10,8 @@
 
 ##### :house: Goiânia, BR | :closed_book: IS Student at [UFG](https://ufg.br) 
 
+![](https://visitor-badge.glitch.me/badge?page_id=lucaspmatos)
+
 </div>
 
 ## About me
