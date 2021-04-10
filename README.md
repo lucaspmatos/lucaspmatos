@@ -15,17 +15,17 @@
 </div>
 
 ## About me
-Now, I'm a backend and frontend software development intern. But I look forward to my junior career very soon! :pray:
+Former fullstack development intern. Currently working as a frontend developer for a technological innovation and artificial intelligence startup.  :pray:
 
 ## Working with
 ![](https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=white&color=orange)
-![](https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=white&color=blue)
+![](https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=white&color=lightblue)
 ![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=black&color=ffe05d)
 ![](https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=white&color=black)
 ![](https://img.shields.io/badge/jquery%20-%23323330.svg?&style=for-the-badge&logo=jquery&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/node.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=white&color=darkgreen)
+![](https://img.shields.io/badge/react.js%20-%23323330.svg?&style=for-the-badge&logo=node.js&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/bootstrap%20-%23323330.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&color=blueviolet)
-![](https://img.shields.io/badge/mysql%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=brown)
+![](https://img.shields.io/badge/redux%20-%23323330.svg?&style=for-the-badge&logo=mysql&logoColor=white&color=purple)
 
 ## [Resume](https://lucaspmatos.github.io/my-digital-resume/)
 :scroll: A page to view my current resume (in Portuguese)
