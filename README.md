@@ -19,12 +19,12 @@ Former fullstack development intern. Currently working as a frontend developer f
 
 ## Working with
 ![](https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=white&color=orange)
-![](https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=white&color=lightblue&color=white)
-![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=black&color=ffe05d)
+![](https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=white&color=blue)
+![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=black&color=f0bf25)
 ![](https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=white&color=black)
 ![](https://img.shields.io/badge/jquery%20-%23323330.svg?&style=for-the-badge&logo=jquery&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/react.js%20-%23323330.svg?&style=for-the-badge&logo=react.js&logoColor=white&color=blue)
-![](https://img.shields.io/badge/bootstrap%20-%23323330.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&color=blueviolet)
+![](https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=white&color=blue)
+![](https://img.shields.io/badge/bootstrap%20-%23323330.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&color=8712fc)
 ![](https://img.shields.io/badge/redux%20-%23323330.svg?&style=for-the-badge&logo=redux&logoColor=white&color=purple)
 
 ## [Resume](https://lucaspmatos.github.io/my-digital-resume/)
