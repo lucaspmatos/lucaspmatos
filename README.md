@@ -15,7 +15,7 @@
 </div>
 
 ## About me
-Former fullstack development intern. Currently working as a frontend developer for a technological innovation and artificial intelligence startup.
+Currently working as a frontend developer for a technological innovation and artificial intelligence startup.
 
 ## Working with
 ![](https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=white&color=orange)
