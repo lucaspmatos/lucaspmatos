@@ -18,14 +18,14 @@
 Currently working as a frontend developer for a technological innovation and artificial intelligence startup.
 
 ## Working with
-![](https://img.shields.io/badge/html5%20-%23323330.svg?&style=for-the-badge&logo=html5&logoColor=white&color=orange)
-![](https://img.shields.io/badge/css3%20-%23323330.svg?&style=for-the-badge&logo=css3&logoColor=white&color=blue)
-![](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=black&color=f0bf25)
-![](https://img.shields.io/badge/git%20-%23323330.svg?&style=for-the-badge&logo=git&logoColor=white&color=black)
-![](https://img.shields.io/badge/jquery%20-%23323330.svg?&style=for-the-badge&logo=jquery&logoColor=white&color=darkblue)
-![](https://img.shields.io/badge/react%20-%23323330.svg?&style=for-the-badge&logo=react&logoColor=white&color=blue)
-![](https://img.shields.io/badge/bootstrap%20-%23323330.svg?&style=for-the-badge&logo=bootstrap&logoColor=white&color=8712fc)
-![](https://img.shields.io/badge/redux%20-%23323330.svg?&style=for-the-badge&logo=redux&logoColor=white&color=purple)
+<img height="35" title="HTML5" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> &nbsp;
+<img height="35" title="CSS3" alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg"> &nbsp;
+<img height="35" title="JavaScript" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> &nbsp;
+<img height="35" title="jQuery" alt="jQuery" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"> &nbsp;
+<img height="35" title="Bootstrap" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> &nbsp;
+<img height="35" title="React" alt="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> &nbsp;
+<img height="35" title="Redux" alt="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> &nbsp;
+<img height="35" title="Git" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
 ## [Resume](https://lucaspmatos.github.io/my-digital-resume/)
 :scroll: A page to view my current resume (in Portuguese)
