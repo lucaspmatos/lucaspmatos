@@ -25,6 +25,7 @@ Currently working as a frontend developer for a technological innovation and art
 <img height="35" title="Bootstrap" alt="Bootstrap" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg"> &nbsp;
 <img height="35" title="React" alt="React" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"> &nbsp;
 <img height="35" title="Redux" alt="Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"> &nbsp;
+<img height="35" title="Styled Components" alt="Styled Components" src="https://miro.medium.com/max/480/1*Iohnw2aOQ5EBghVoqKA7VA.png"> &nbsp;
 <img height="35" title="Git" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 
 ## [Resume](https://lucaspmatos.github.io/my-digital-resume/)
