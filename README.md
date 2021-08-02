@@ -8,14 +8,14 @@
 [![Gitlab Badge](https://img.shields.io/badge/gitlab%20-%23323330.svg?&style=for-the-badge&logo=gitlab&logoColor=white&color=purple&link=https://gitlab.com/lucaspmatos)](https://gitlab.com/lucaspmatos)
 [![Linkedin Badge](https://img.shields.io/badge/linkedin%20-%23323330.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/lucaspmatos/)](https://www.linkedin.com/in/lucaspmatos/)
 
-##### :house: Goiânia, BR | :closed_book: IS Student at [UFG](https://ufg.br) 
+##### :closed_book: IS Student at [UFG](https://ufg.br) | Software Consulting Intern at [Iteris](https://www.iteris.com.br)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=lucaspmatos)
 
 </div>
 
 ## About me
-Currently working as a frontend developer for a technological innovation and artificial intelligence startup.
+Currently working as a software consulting intern for a technological innovation and artificial intelligence startup.
 
 ## Working with
 <img height="35" title="HTML5" alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"> &nbsp;
