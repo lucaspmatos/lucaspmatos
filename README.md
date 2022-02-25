@@ -15,7 +15,7 @@
 </div>
 
 ## About me
-Currently working as mobile developer for one of the largest software companies in Brazil
+Currently working as mobile developer for one of the largest software consultancies in Brazil
 
 ## Working with
 <img height="35" title="Dart" alt="Dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> &nbsp;
