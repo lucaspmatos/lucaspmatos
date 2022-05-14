@@ -44,5 +44,6 @@ Currently working as mobile developer for one of the largest software consultanc
 :handshake: I'm available for new connections and job offers<br>
 :nerd_face: Curious about data science, artificial intelligence and development operations<br>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=lucaspmatos&count_private=true&show_icons=true&hide=issues&title_color=000000&icon_color=5C2DAE&line_height=24)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspmatos&layout=compact&show_icons=true&title_color=000000&icon_color=5C2DAE)](https://github.com/anuraghazra/github-readme-stats)
+## Stats
+<img align=left height='140px'  src = 'https://github-readme-stats.vercel.app/api?username=lucaspmatos&theme=midnight-purple&count_private=true&show_icons=true'>
+<img align=center height='140px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspmatos&theme=midnight-purple&hide=html&layout=compact' >
