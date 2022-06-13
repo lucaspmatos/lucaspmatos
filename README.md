@@ -1,7 +1,7 @@
 <div align="center">
   <h1>
     Hi, I'm Lucas! 
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> 
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"> 
   </h1> 
   
 [![Github Badge](https://img.shields.io/badge/github%20-%23323330.svg?&style=for-the-badge&logo=github&logoColor=white&color=black&link=https://github.com/lucaspmatos)](https://github.com/lucaspmatos)
