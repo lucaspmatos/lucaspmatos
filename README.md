@@ -18,10 +18,12 @@
 Currently working as mobile developer for one of the largest software consultancies in Brazil
 
 ## Working with
-<img height="35" title="Dart" alt="Dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> &nbsp;
 <img height="35" title="Flutter" alt="Flutter" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"> &nbsp;
+<img height="35" title="Dart" alt="Dart" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"> &nbsp;
 <img height="35" title="Firebase" alt="Firebase" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"> &nbsp;
 <img height="35" title="Git" alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> &nbsp;
+<img height="35" title="Android Studio" alt="Android Studio" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg"> &nbsp;
+<img height="35" title="Xcode" alt="Xcode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xcode/xcode-original.svg"> &nbsp;
 <img height="35" title="Figma" alt="Figma" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg"> &nbsp;
 
 ## I've worked with
