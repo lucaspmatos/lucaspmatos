@@ -47,5 +47,5 @@ Currently working as mobile developer for one of the largest software consultanc
 :nerd_face: Curious about data science, artificial intelligence and development operations<br>
 
 ## Stats
-<img align=left height='140px'  src = 'https://github-readme-stats.vercel.app/api?username=lucaspmatos&theme=midnight-purple&count_private=true&show_icons=true'>
+<img align=left height='140px'  src="https://github-readme-stats.vercel.app/api?username=lucaspmatos&theme=midnight-purple&count_private=true&show_icons=true">
 <img align=center height='140px' src='https://github-readme-stats.vercel.app/api/top-langs/?username=lucaspmatos&theme=midnight-purple&hide=html&layout=compact' >
